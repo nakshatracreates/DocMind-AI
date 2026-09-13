@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+python-jose
+bcrypt
+python-multipart
+pydantic[email]
+pypdf
+chromadb
+openai
+python-dotenv
